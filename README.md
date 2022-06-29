@@ -1,5 +1,5 @@
 ### Hi there 👋
-![uploading pixels-neon.gif_]()
+![](https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
 
 <!--
 **debjit20504/debjit20504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
