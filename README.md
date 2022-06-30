@@ -51,7 +51,7 @@
 <a href="https://twitter.com/@debjit20504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@debjit20504" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/debjit pramanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debjit pramanik" height="30" width="40" /></a>
 <a href="https://instagram.com/dominic_0_0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dominic_0_0_" height="30" width="40" /></a>
-<a href="mailto:debjit20504@iiitd.ac.in" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" alt="debjit20504@iiitd.ac.in" height="30" width="40" /></a>
+<a href="mailto:debjit20504@iiitd.ac.in" target="blank"><img align="center" src="https://mailmeteor.com/logos/gmail" alt="debjit20504@iiitd.ac.in" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debjit20504&label=Profile%20views&color=0e75b6&style=flat" alt="debjit20504" /> </p>
@@ -96,5 +96,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 
-<img src="https://camo.githubusercontent.com/42762b370b421e6be0f71fcda44a336760db3036ca638d00364357ca5138ba10/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d537465616c74682d7079267468656d653d7261646963616c2673686f775f69636f6e733d74727565266c61796f75743d636f6d70616374266865696768743d3330" alt="My-Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Stealth-py&amp;theme=radical&amp;show_icons=true&amp;layout=compact&amp;height=30" style="max-width: 100%;"> -->
