@@ -39,11 +39,10 @@
 <h2 align="left">📈 Github Stats:</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjit20504&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="debjit20504" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjit20504&show_icons=true&theme=midnight-purple&locale=en" alt="debjit20504" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debjit20504&theme=midnight-purple" alt="debjit20504" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjit20504&show_icons=true&theme=midnight-purple&locale=en" alt="debjit20504" /></p>
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
