@@ -51,7 +51,7 @@
 <a href="https://twitter.com/@debjit20504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@debjit20504" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/debjit pramanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debjit pramanik" height="30" width="40" /></a>
 <a href="https://instagram.com/dominic_0_0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dominic_0_0_" height="30" width="40" /></a>
-<a href="mailto:debjit20504@iiitd.ac.in" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="debjit20504@iiitd.ac.in" height="30" width="40" /></a>
+<a href="mailto:debjit20504@iiitd.ac.in" target="blank"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="debjit20504@iiitd.ac.in" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debjit20504&label=Profile%20views&color=0e75b6&style=flat" alt="debjit20504" /> </p>
