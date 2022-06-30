@@ -53,7 +53,7 @@ import Iconify from '@iconify/iconify';
 <a href="https://twitter.com/@debjit20504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@debjit20504" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/debjit pramanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debjit pramanik" height="30" width="40" /></a>
 <a href="https://instagram.com/dominic_0_0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dominic_0_0_" height="30" width="40" /></a>
-<a href="mailto:debjit20504@iiitd.ac.in" target="blank"><img align="center" <span class="iconify" data-icon="logos:google-gmail"></span> alt="debjit20504@iiitd.ac.in" height="30" width="40" /></a>
+<a href="mailto:debjit20504@iiitd.ac.in" target="blank"><img align="center" src="https://code.iconify.design/2/2.2.1/iconify.min.js" alt="debjit20504@iiitd.ac.in" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debjit20504&label=Profile%20views&color=0e75b6&style=flat" alt="debjit20504" /> </p>
@@ -98,3 +98,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 193" class="iconify iconify--logos"><path fill="#4285F4" d="M58.182 192.05V93.14L27.507 65.077L0 49.504v125.091c0 9.658 7.825 17.455 17.455 17.455h40.727Z"></path><path fill="#34A853" d="M197.818 192.05h40.727c9.659 0 17.455-7.826 17.455-17.455V49.505l-31.156 17.837l-27.026 25.798v98.91Z"></path><path fill="#EA4335" d="m58.182 93.14l-4.174-38.647l4.174-36.989L128 69.868l69.818-52.364l4.669 34.992l-4.669 40.644L128 145.504z"></path><path fill="#FBBC04" d="M197.818 17.504V93.14L256 49.504V26.231c0-21.585-24.64-33.89-41.89-20.945l-16.292 12.218Z"></path><path fill="#C5221F" d="m0 49.504l26.759 20.07L58.182 93.14V17.504L41.89 5.286C24.61-7.66 0 4.646 0 26.23v23.273Z"></path></svg>
