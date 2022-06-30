@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debjit20504&label=Profile%20views&color=0e75b6&style=flat" alt="debjit20504" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debjit20504" alt="debjit20504" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debjit20504" alt="debjit20504" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/@debjit20504" target="blank"><img src="https://img.shields.io/twitter/follow/@debjit20504?logo=twitter&style=for-the-badge" alt="@debjit20504" /></a> </p>
 
