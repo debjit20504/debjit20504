@@ -51,7 +51,7 @@
 <a href="https://twitter.com/@debjit20504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@debjit20504" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/debjit pramanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debjit pramanik" height="30" width="40" /></a>
 <a href="https://instagram.com/dominic_0_0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dominic_0_0_" height="30" width="40" /></a>
-<a href="mailto:debjit20504@iiitd.ac.in" target="blank"><img align="center" src="https://mailmeteor.com/logos/gmail" alt="debjit20504@iiitd.ac.in" height="30" width="40" /></a>
+<a href="mailto:debjit20504@iiitd.ac.in" target="blank"><img align="center" src="https://drive.google.com/file/d/1qtpzWZbAliBzJZtMOT-Bm71YCWX4JgnK/view?usp=sharing" alt="debjit20504@iiitd.ac.in" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debjit20504&label=Profile%20views&color=0e75b6&style=flat" alt="debjit20504" /> </p>
