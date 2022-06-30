@@ -2,7 +2,7 @@
 
 <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width = "832" height = "464"/>
 
-<h3 align="left">
+<!-- <h3 align="left"> -->
 🎓 I am an Undergraduate student currently pursuing Computer Science and Biosciences from [IIIT Delhi](https://iiitd.ac.in/)
 
 👨‍💻 I have a keen interest in Artificial Intelligence and Machine Learning, 
@@ -10,7 +10,7 @@
 
 🤝 I am also open for any project ideas or collaboration. 
    You can connect with me from the handles given below for collaboration or anything else.
-</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debjit20504&label=Profile%20views&color=0e75b6&style=flat" alt="debjit20504" /> </p>
 
