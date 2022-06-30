@@ -38,13 +38,13 @@
 
 <h2 align="left">📈 Github Stats:</h2>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjit20504&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="debjit20504" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debjit20504&theme=midnight-purple" alt="debjit20504" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjit20504&show_icons=true&theme=midnight-purple&locale=en" alt="debjit20504" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjit20504&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="debjit20504" /></p>
-
-<p align="right"><img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width = "50" height = "50"/></p>
+<p align="right"><img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width = "200" height = "200"/></p>
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
