@@ -10,7 +10,9 @@
 🤝 I am also open for any project ideas or collaboration. 
    You can connect with me from the handles given below for collaboration or anything else.
 
-### **Languages** <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width = "16" height = "12"/>
+🛠️ **Skills**
+
+## **Languages** <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width = "16" height = "12"/>
 
 
 
