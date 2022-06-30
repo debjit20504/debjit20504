@@ -2,7 +2,6 @@
 
 <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width = "832" height = "464"/>
 
-## 🥷 **About me**
 🎓 I am an Undergraduate student currently pursuing Computer Science and Biosciences from [IIIT Delhi](https://iiitd.ac.in/).
 
 👨‍💻 I have a keen interest in Artificial Intelligence and Machine Learning, 
