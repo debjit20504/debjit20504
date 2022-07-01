@@ -24,6 +24,7 @@ import Iconify from '@iconify/iconify';
    <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+      <p align="right"><img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width = "200" height = "200"/></p>
 
 <h3 align="left">Tools:</h3>
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="xd" width="40" height="40"/> </a>
@@ -45,8 +46,6 @@ import Iconify from '@iconify/iconify';
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debjit20504&theme=midnight-purple" alt="debjit20504" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjit20504&show_icons=true&theme=midnight-purple&locale=en" alt="debjit20504" /></p>
-
-<p align="right"><img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width = "200" height = "200"/></p>
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
