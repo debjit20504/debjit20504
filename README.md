@@ -46,6 +46,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjit20504&show_icons=true&theme=midnight-purple&locale=en" alt="debjit20504" /></p>
 
+<p><img align="center" src="profile-3d-contrib/profile-night-rainbow.svg" alt="debjit20504" /></p>
+
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/@debjit20504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@debjit20504" height="30" width="40" /></a>
@@ -56,7 +58,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debjit20504&label=Profile%20views&color=0e75b6&style=flat" alt="debjit20504" /> </p>
 
-<p><img align="center" src="profile-3d-contrib/profile-night-rainbow.svg" alt="debjit20504" /></p>
 
 <!--# **Hi there** <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width = "25" height = "25"/>
 
