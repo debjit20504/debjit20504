@@ -99,12 +99,12 @@ Here are some ideas to get you started:
 <table>
 <td>
 
-![](https://aminoapps.com/c/anime/page/blog/5-controversial-anime-that-i-liked-loved/YMtb_u6lzJ3l8MY7PmBRRD6LBvLQ2R)
+<p align="right"><img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width = "100" height = "100"/></p>
 
 </td>
 <td>
 
-![](https://aminoapps.com/c/anime/page/blog/5-controversial-anime-that-i-liked-loved/YMtb_u6lzJ3l8MY7PmBRRD6LBvLQ2R)
+<p align="right"><img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width = "100" height = "100"/></p>
 
 </td>
 </table>
