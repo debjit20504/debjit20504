@@ -97,18 +97,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <table>
-<tr>
-</tr>
-<tr>
-<td>
 
 ![](https://aminoapps.com/c/anime/page/blog/5-controversial-anime-that-i-liked-loved/YMtb_u6lzJ3l8MY7PmBRRD6LBvLQ2R)
 
-</td>
-<td>
 
 ![](https://aminoapps.com/c/anime/page/blog/5-controversial-anime-that-i-liked-loved/YMtb_u6lzJ3l8MY7PmBRRD6LBvLQ2R)
 
-</td>
-</tr>
 </table>
