@@ -96,20 +96,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-align: center; display: grid; grid-template-columns: 1fr 1fr;">
-  <div>parent
+
 
 ```html
-<component>content</component>
-```
+.outer-1 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
 
+.outer-1 > img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  left: 0px;
+  top: 0px;
+}
+
+
+.outer-1 > p {
+  position: relative;
+  z-index: 2;
+}
+
+<! DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+ <link href="taniaWebsite11.css" type="text/css" rel="stylesheet">
+<title> </title>
+
+</head>
+<body class="mainpage12">
+<center>
+  <div class="outer-1">
+    <img class="img" src="https://i.ibb.co/bL5NCq2/tenor.gif" alt="tenor" border="0">
+    <p>text text text, pls upvote me</p>
   </div>
-  <div>
-child
-
-```html
-<slot>fallback content</slot>
-```
-
+  <div class="outer-1">
+    <img class="img" src="https://i.ibb.co/bL5NCq2/tenor.gif" alt="tenor" border="0">
+    <p>text text text, pls upvote me</p>
   </div>
-</div>
+ </center>
+</body>
+
+</html>
+```
