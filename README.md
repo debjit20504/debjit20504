@@ -104,22 +104,12 @@ Here are some ideas to get you started:
 <tr>
 <td>
 
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
+![](https://aminoapps.com/c/anime/page/blog/5-controversial-anime-that-i-liked-loved/YMtb_u6lzJ3l8MY7PmBRRD6LBvLQ2R)
 
 </td>
 <td>
 
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
+![](https://aminoapps.com/c/anime/page/blog/5-controversial-anime-that-i-liked-loved/YMtb_u6lzJ3l8MY7PmBRRD6LBvLQ2R)
 
 </td>
 </tr>
