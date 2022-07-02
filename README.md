@@ -98,8 +98,6 @@ Here are some ideas to get you started:
 -->
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
 </tr>
 <tr>
 <td>
