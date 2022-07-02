@@ -96,12 +96,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="row">
-  <div class="col-md-8" markdown="1">
-  Some text.
+<div style="text-align: center; display: grid; grid-template-columns: 1fr 1fr;">
+  <div>parent
+
+```html
+<component>content</component>
+`` `
+
   </div>
-  <div class="col-md-4" markdown="1">
-  <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img height="600px" class="center-block" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif">
+  <div>
+child
+
+```html
+<slot>fallback content</slot>
+`` `
+
   </div>
 </div>
