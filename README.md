@@ -99,21 +99,3 @@ Here are some ideas to get you started:
 
 
 
-<html>
-
-
-</head>
-<body class="mainpage12">
-<center>
-  <div class="outer-1">
-    <img class="img" src="https://i.ibb.co/bL5NCq2/tenor.gif" alt="tenor" border="0">
-    <p>text text text, pls upvote me</p>
-  </div>
-  <div class="outer-1">
-    <img class="img" src="https://i.ibb.co/bL5NCq2/tenor.gif" alt="tenor" border="0">
-    <p>text text text, pls upvote me</p>
-  </div>
- </center>
-</body>
-
-</html>
