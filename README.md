@@ -96,5 +96,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img class="img" src="https://i.ibb.co/bL5NCq2/tenor.gif" alt="tenor" border="0">
+<p>text text text, pls upvote me</p>
 
