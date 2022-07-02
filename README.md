@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 
 ```html
 <component>content</component>
-`` `
+```
 
   </div>
   <div>
@@ -109,7 +109,7 @@ child
 
 ```html
 <slot>fallback content</slot>
-`` `
+```
 
   </div>
 </div>
