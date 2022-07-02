@@ -41,7 +41,7 @@
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="xd" width="40" height="40"/> </a> 
 </td>
 <td>
-   <p align="right"><img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width = "250" height = "200"/></p>
+   <p align="right"><img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width = "400" height = "400"/></p>
 </td>
 </table>
 
