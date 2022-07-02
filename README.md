@@ -96,15 +96,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table>
+
+
+<p align="right"><img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width = "100" height = "100"/></p>
+
 
 <td>
 
 <p align="right"><img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width = "100" height = "100"/></p>
 
 </td>
-<td>
-
-<p align="right"><img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width = "100" height = "100"/></p>
-
-</td>
-
+</table>
