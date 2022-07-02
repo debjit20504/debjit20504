@@ -98,29 +98,7 @@ Here are some ideas to get you started:
 -->
 
 
-```html
-.outer-1 {
-  position: relative;
-  width: 100px;
-  height: 100px;
-}
 
-.outer-1 > img {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-  left: 0px;
-  top: 0px;
-}
-
-
-.outer-1 > p {
-  position: relative;
-  z-index: 2;
-}
-
-<! DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -142,4 +120,3 @@ Here are some ideas to get you started:
 </body>
 
 </html>
-```
