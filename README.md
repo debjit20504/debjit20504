@@ -54,7 +54,8 @@
 <h2 align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtHyAEYPE41sGjNslJGfYWeb_b6oOU-fYCQ&usqp=CAU" width = "25" height = "25"/> Dev Memes:</h2>
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-<h2 align="left"><h2 align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuj1kjEdWA5CmH3umCZOVZFkR4f6L8oayzA&usqp=CAU" width = "25" height = "25"/> Dev Memes:</h2> Dev Quotes:</h2>
+<h2 align="left"><h2 align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfKLQRfJjGG4Z2ZRDd5qWOL74HUWl4POO2Q&usqp=CAU" width = "25" height = "25"/> Dev Memes:</h2> Dev Quotes:</h2>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!-- CONNECT WITH ME -->
