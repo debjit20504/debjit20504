@@ -39,6 +39,7 @@
    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="xd" width="40" height="40"/> </a> 
 
+<!-- GITHUB STATS -->
 <h2 align="left">📈 Github Stats:</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjit20504&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="debjit20504" /></p>
@@ -49,6 +50,11 @@
 
 <p><img align="center" src="profile-3d-contrib/profile-night-rainbow.svg" alt="debjit20504" /></p>
 
+<!--  MEMES SECTION -->
+<h2 align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtHyAEYPE41sGjNslJGfYWeb_b6oOU-fYCQ&usqp=CAU" width = "25" height = "25"/> Memes Section:</h2>
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+<!-- CONNECT WITH ME -->
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/@debjit20504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@debjit20504" height="30" width="40" /></a>
@@ -59,4 +65,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debjit20504&label=Profile%20views&color=0e75b6&style=flat" alt="debjit20504" /> </p>
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
