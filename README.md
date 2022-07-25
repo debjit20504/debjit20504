@@ -51,9 +51,10 @@
 <p><img align="center" src="profile-3d-contrib/profile-night-rainbow.svg" alt="debjit20504" /></p>
 
 <!--  MEMES SECTION -->
-<h2 align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtHyAEYPE41sGjNslJGfYWeb_b6oOU-fYCQ&usqp=CAU" width = "25" height = "25"/> Dev Memes:</h2>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."/>
+<!-- <h2 align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtHyAEYPE41sGjNslJGfYWeb_b6oOU-fYCQ&usqp=CAU" width = "25" height = "25"/> Dev Memes:</h2>
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."/> -->
 
+<!-- Dev Quotes -->
 <h2 align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfKLQRfJjGG4Z2ZRDd5qWOL74HUWl4POO2Q&usqp=CAU" width = "23" height = "23"/> Dev Quotes:</h2>
 
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
