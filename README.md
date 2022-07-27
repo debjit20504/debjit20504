@@ -64,7 +64,7 @@
 
 <h2 align="left"><img src="https://c.tenor.com/EibW8F4VJUkAAAAC/joke-jk.gif" width = "25" height = "25"/> Jokes :</h2>
 
-![](https://readme-jokes.vercel.app/api)
+[![](https://readme-jokes.vercel.app/api?type=horizontal&theme=dark)]([https://api.chucknorris.io/jokes/random?category={dev}](https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,racist))
 
 <!-- CONNECT WITH ME -->
 
