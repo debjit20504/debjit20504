@@ -64,8 +64,7 @@
 
 <h2 align="left"><img src="https://c.tenor.com/EibW8F4VJUkAAAAC/joke-jk.gif" width = "25" height = "25"/> Jokes :</h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-https://c.tenor.com/EibW8F4VJUkAAAAC/joke-jk.gif
+![](https://readme-jokes.vercel.app/api)
 
 <!-- CONNECT WITH ME -->
 
