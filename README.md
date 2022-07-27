@@ -55,11 +55,20 @@
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."/> -->
 
 <!-- Dev Quotes -->
+
 <h2 align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfKLQRfJjGG4Z2ZRDd5qWOL74HUWl4POO2Q&usqp=CAU" width = "23" height = "23"/> Dev Quotes:</h2>
 
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<!-- Random Joke generator -->
+
+<h2 align="left"><img src="https://c.tenor.com/EibW8F4VJUkAAAAC/joke-jk.gif" width = "25" height = "25"/> Jokes :</h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+https://c.tenor.com/EibW8F4VJUkAAAAC/joke-jk.gif
+
 <!-- CONNECT WITH ME -->
+
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/@debjit20504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@debjit20504" height="30" width="40" /></a>
