@@ -1,4 +1,4 @@
-<h1 align="left"> <img src = "https://readme-typing-svg.herokuapp.com?font=Dacing+Script&duration=4000&multiline=true&color=161B95&lines=Hi%2C+everyone+I'm+Debjit+Pramanik;aka+Dominic+HOPE+YOU+ARE+DOING+WELL++"/></h1>
+<h1 align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=3C2ACD&multiline=true&lines=Hi%2C+everyone+I'm+Debjit+Pramanik;aka+Dominic+HOPE+YOU+ARE+DOING+WELL"alt="Typing SVG" /></a></h1>
 <!-- <img src = "https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/> -->
 <!-- <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width = "25" height = "25"/> -->
 
@@ -60,7 +60,7 @@
 
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!-- Random Joke generator 
+<!-- Random Joke generator
 
 <h2 align="left"><img src="https://c.tenor.com/EibW8F4VJUkAAAAC/joke-jk.gif" width = "25" height = "25"/> Jokes :</h2>
 
