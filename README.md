@@ -76,4 +76,9 @@
 <a href="mailto:debjit20504@iiitd.ac.in" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="debjit20504@iiitd.ac.in" height="40" width="40" /></a>
 </p>
 
+<p><img align="center" src="/github-metrics.svg" alt="debjit20504" /></p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debjit20504&label=Profile%20views&color=0e75b6&style=flat" alt="debjit20504" /> </p>
+
+<!-- ************************************************************ -->
