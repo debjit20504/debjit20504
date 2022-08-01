@@ -60,8 +60,6 @@
 
 <p><img align="center" src="/metrics.plugin.achievements.compact.svg" alt="debjit20504" /></p>
 
-<!-- <p><img align="center" src="/metrics.repository.svg" alt="debjit20504" /></p> -->
-
 <!-- Dev Quotes -->
 
 <h2 align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfKLQRfJjGG4Z2ZRDd5qWOL74HUWl4POO2Q&usqp=CAU" width = "23" height = "23"/> Dev Quotes:</h2>
