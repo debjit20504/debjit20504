@@ -60,12 +60,6 @@
 
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!-- Random Joke generator
-
-<h2 align="left"><img src="https://c.tenor.com/EibW8F4VJUkAAAAC/joke-jk.gif" width = "25" height = "25"/> Jokes :</h2>
-
-[![](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham)](https://api.chucknorris.io/jokes/random?category={dev}) -->
-
 <!-- GITHUB metrics -->
 
 <p><img align="center" src="/github-metrics.svg" alt="debjit20504" /></p>
