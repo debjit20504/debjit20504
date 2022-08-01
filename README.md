@@ -64,6 +64,10 @@
 
 <p><img align="center" src="/github-metrics.svg" alt="debjit20504" /></p>
 
+<p><img align="center" src="/metrics.plugin.achievements.compact.svg" alt="debjit20504" /></p>
+
+<p><img align="center" src="/metrics.repository.svg" alt="debjit20504" /></p>
+
 <!-- CONNECT WITH ME -->
 
 <h2 align="left">🔗 Connect with me:</h2>
