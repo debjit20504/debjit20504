@@ -66,6 +66,10 @@
 
 [![](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham)](https://api.chucknorris.io/jokes/random?category={dev}) -->
 
+<!-- GITHUB metrics -->
+
+<p><img align="center" src="/github-metrics.svg" alt="debjit20504" /></p>
+
 <!-- CONNECT WITH ME -->
 
 <h2 align="left">🔗 Connect with me:</h2>
@@ -75,9 +79,6 @@
 <a href="https://instagram.com/dominic_0_0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dominic_0_0_" height="30" width="40" /></a>
 <a href="mailto:debjit20504@iiitd.ac.in" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="debjit20504@iiitd.ac.in" height="40" width="40" /></a>
 </p>
-
-<p><img align="center" src="/github-metrics.svg" alt="debjit20504" /></p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debjit20504&label=Profile%20views&color=0e75b6&style=flat" alt="debjit20504" /> </p>
 
