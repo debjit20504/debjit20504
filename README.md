@@ -44,7 +44,7 @@
 
 <p><img align="center" src="/metrics.plugin.languages.details.svg" alt="debjit20504" /></p>
 
-<p><img align="center" src="/metrics.plugin.starlists.languages.svg" alt="debjit20504" /></p>
+<!-- <p><img align="center" src="/metrics.plugin.starlists.languages.svg" alt="debjit20504" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjit20504&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="debjit20504" /></p> -->
 
