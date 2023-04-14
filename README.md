@@ -6,8 +6,8 @@
 
 🎓 I am an Undergraduate student currently pursuing Computer Science and Biosciences from [IIIT Delhi](https://iiitd.ac.in/)
 
-👨‍💻 I have a keen interest in Artificial Intelligence and Machine Learning,
-   and am looking forward to collaborate and enter this field in the future.
+👨‍💻 I have a keen interest in Artificial Intelligence, Machine Learning, and Computational Biology.
+   I am looking forward to collaborate and enter this field in the future.
 
 🤝 I am also open for any project ideas or collaboration.
    You can connect with me from the handles given below for collaboration or anything else.
