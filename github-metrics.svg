@@ -204,10 +204,10 @@
                     </section>
                 </div>
             </section>
-            <footer>
+<!--             <footer>
                 <span>These metrics include private contributions</span>
                 <span>Last updated 7 Aug 2023, 13:04:00  with lowlighter/metrics@3.33.0</span>
-            </footer>
+            </footer> -->
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
     </foreignObject>
