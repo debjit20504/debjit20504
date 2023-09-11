@@ -42,15 +42,15 @@
 <!-- GITHUB STATS -->
 <h2 align="left">📈 Github Stats:</h2>
 
-<p><img align="center" src="/metrics.plugin.languages.details.svg" alt="debjit20504" /></p>
+<!-- <p><img align="center" src="/metrics.plugin.languages.details.svg" alt="debjit20504" /></p>
 
 <!-- <p><img align="center" src="/metrics.plugin.starlists.languages.svg" alt="debjit20504" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjit20504&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="debjit20504" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debjit20504&theme=midnight-purple" alt="debjit20504" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debjit20504&theme=midnight-purple" alt="debjit20504" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjit20504&show_icons=true&theme=midnight-purple&locale=en" alt="debjit20504" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjit20504&show_icons=true&theme=midnight-purple&locale=en" alt="debjit20504" /></p> -->
 
 <p><img align="center" src="profile-3d-contrib/profile-night-rainbow.svg" alt="debjit20504" /></p>
 
