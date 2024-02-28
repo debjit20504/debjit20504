@@ -74,7 +74,7 @@
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/@debjit20504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@debjit20504" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/@debjit20504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@debjit20504" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/debjit-pramanik-88a837171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debjit pramanik" height="30" width="40" /></a>
 <a href="https://instagram.com/dominic_0_0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dominic_0_0_" height="30" width="40" /></a>
 <a href="mailto:debjit20504@iiitd.ac.in" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="debjit20504@iiitd.ac.in" height="40" width="40" /></a>
