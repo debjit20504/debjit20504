@@ -4,7 +4,7 @@
 
 <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width = "832" height = "464"/>
 
-🎓 I am an Undergraduate student currently pursuing Computer Science and Biosciences from [IIIT Delhi](https://iiitd.ac.in/)
+🎓 I am an Graduate student currently pursuing MSc in Bioinformatics from [University of Manchester](https://www.manchester.ac.uk/) in past I did my Bachelors in Computer Science and Biosciences from [IIIT Delhi](https://iiitd.ac.in/)
 
 👨‍💻 I have a keen interest in Artificial Intelligence, Machine Learning, and Computational Biology.
    I am looking forward to collaborate and enter this field in the future.
