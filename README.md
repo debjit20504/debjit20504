@@ -4,12 +4,12 @@
 
 <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width = "832" height = "464"/>
 
-🎓 I am an Graduate student currently pursuing MSc in Bioinformatics from [University of Manchester](https://www.manchester.ac.uk/) in past I did my Bachelors in Computer Science and Biosciences from [IIIT Delhi](https://iiitd.ac.in/)
+🎓 I am a Graduate student currently pursuing MSc in Bioinformatics from [University of Manchester](https://www.manchester.ac.uk/) in the past I did my Bachelors in Computer Science and Biosciences from [IIIT Delhi](https://iiitd.ac.in/)
 
 👨‍💻 I have a keen interest in Artificial Intelligence, Machine Learning, and Computational Biology.
-   I am looking forward to collaborate and enter this field in the future.
+   I am looking forward to collaborating and entering this field in the future.
 
-🤝 I am also open for any project ideas or collaboration.
+🤝 I am also open to any project ideas or collaboration.
    You can connect with me from the handles given below for collaboration or anything else.
 
 
@@ -67,7 +67,7 @@
 
 <!-- Dev Quotes -->
 
-<h2 align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfKLQRfJjGG4Z2ZRDd5qWOL74HUWl4POO2Q&usqp=CAU" width = "23" height = "23"/> Dev Quotes:</h2>
+<h2 align="left">📜 Dev Quotes:</h2>
 
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -75,9 +75,9 @@
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
-<!-- <a href="https://twitter.com/@debjit20504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@debjit20504" height="30" width="40" /></a> -->
+<a href="https://twitter.com/@dominic_20504" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="@debjit20504" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/debjit-pramanik-88a837171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debjit pramanik" height="30" width="40" /></a>
-<a href="https://instagram.com/dominic_0_0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dominic_0_0_" height="30" width="40" /></a>
+<a href="https://instagram.com/dominic0070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dominic_0_0_" height="30" width="40" /></a>
 <a href="mailto:debjit20504@iiitd.ac.in" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="debjit20504@iiitd.ac.in" height="40" width="40" /></a>
 </p>
 
