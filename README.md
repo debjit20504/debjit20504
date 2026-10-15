@@ -4,7 +4,7 @@
 
 <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width = "832" height = "464"/>
 
-🎓 I recently completed mine Master's in Bioinformatics from [University of Manchester](https://www.manchester.ac.uk/) in the past I did my Bachelors in Computer Science and Biosciences from [IIIT Delhi](https://iiitd.ac.in/)
+🎓 I recently completed my Master's in Bioinformatics from [University of Manchester](https://www.manchester.ac.uk/) in the past I did my Bachelors in Computer Science and Biosciences from [IIIT Delhi](https://iiitd.ac.in/)
 
 👨‍💻 I have a keen interest in Artificial Intelligence, Machine Learning, and Computational Biology.
    I am looking forward to collaborating and entering this field in the future.
